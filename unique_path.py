@@ -1,5 +1,6 @@
 '''
 	@author: Suryadeep
+	Dynamic programming
 '''
 class Solution:
 	def uniquePaths(self, m, n):
